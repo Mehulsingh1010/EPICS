@@ -2,14 +2,14 @@ import { Card, CardContent } from "@/components/ui/card"
 import Image from "next/image"
 
 const teamMembers = [
-  { name: "Team Member 1", role: "Project Lead" },
-  { name: "Team Member 2", role: "Hardware Engineer" },
-  { name: "Team Member 3", role: "Software Developer" },
-  { name: "Team Member 4", role: "Research Analyst" },
-  { name: "Team Member 5", role: "Design Engineer" },
-  { name: "Team Member 6", role: "Documentation Lead" },
-  { name: "Team Member 7", role: "Testing Engineer" },
-  { name: "Team Member 8", role: "Quality Assurance" },
+  { name: "Lay Sheth", role: "Hardware Engineer" },
+  { name: "Kaustubh Agrawal", role: "App Developer" },
+  { name: "Mehul Singh", role: "Software Developer" },
+  { name: "Riya Singh", role: "Research Analyst" },
+  { name: "Manmohan Shrivastava", role: "App Developer" },
+  { name: "Aayushi Dwivedi", role: "Design Engineer" },
+  { name: "Jiya Narula", role: "Testing Engineer" },
+  { name: "Aishwarya Tripathi", role: "Quality Assurance"},
 ]
 
 export default function TeamPage() {
@@ -32,4 +32,7 @@ export default function TeamPage() {
     </div>
   )
 }
+
+
+
 
