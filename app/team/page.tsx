@@ -23,7 +23,7 @@ export default function TeamPage() {
               <div className="aspect-square relative mb-4">
                 <Image src="/placeholder.svg" alt={member.name} fill className="rounded-full object-cover" />
               </div>
-              <h3 className="text-xl text-green-400 font-semibold text-center">{member.name}</h3>
+              <h3 className="text-xl text-green-500 font-semibold text-center">{member.name}</h3>
               <p className="text-gray-400 text-center">{member.role}</p>
             </CardContent>
           </Card>
