@@ -38,7 +38,7 @@ export default function AboutPage() {
                 developing the next generation of affordable prosthetic hands.
               </p>
               <div className="bg-emerald-500/10 border border-emerald-500/20 rounded-lg p-6">
-                <h3 className="text-xl font-semibold mb-3 text-emerald-400">EPICS Project Team 123</h3>
+                <h3 className="text-xl font-semibold mb-3 text-emerald-400">EPICS Project Team 092</h3>
                 <p>
                   As part of the EPICS program, we&apos;re committed to applying engineering principles to create
                   solutions that make a real difference in people&apos;s lives.

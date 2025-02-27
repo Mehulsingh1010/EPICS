@@ -235,7 +235,7 @@ export default function Home() {
                 >
                   <Typewriter
                     options={{
-                      strings: ['An EPICS Project by Team 123'],
+                      strings: ['An EPICS Project by Team 092'],
                       autoStart: true,
                       loop: true,
                       delay: 0,

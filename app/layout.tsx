@@ -7,10 +7,10 @@ import Navbar from "@/components/navbar"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Hastakriti - EPICS Project Team 123",
+  title: "Hastakriti - EPICS Project Team 092",
   description: "Building innovative prosthetic hands for the differently-abled",
   openGraph: {
-    title: "Hastakriti - EPICS Project Team 123",
+    title: "Hastakriti - EPICS Project Team 092",
     description: "Building innovative prosthetic hands for the differently-abled",
     images: [
       {
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Hastakriti - EPICS Project Team 123",
+    title: "Hastakriti - EPICS Project Team 092",
     description: "Building innovative prosthetic hands for the differently-abled",
     images: ["/metaimg.png"], // Same image as above
   },
