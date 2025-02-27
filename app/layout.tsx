@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Hastakriti - EPICS Project Team 123",
   description: "Building prosthetic hands for the differently-abled",
-    generator: 'v0.dev'
+  
 }
 
 export default function RootLayout({
